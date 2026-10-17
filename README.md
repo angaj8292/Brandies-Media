@@ -267,3 +267,4 @@ All website copy and data are decoupled into the `src/data/` folder for effortle
 - **Tagline**: We Make Brands
 - **Phone / WhatsApp**: [+91 8292769366](tel:+918292769366) | [WhatsApp Chat](https://wa.me/918292769366)
 - **Email**: [angajkumar2262002@gmail.com](mailto:angajkumar2262002@gmail.com)
+"# Brandies-Media" 
